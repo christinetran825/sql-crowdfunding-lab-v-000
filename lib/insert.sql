@@ -1,15 +1,15 @@
 --projects
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Red Wagon", "art", 25000, 2017-12-15, 2018-1-15);
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Cement Planters", "crafts", 200, 2017-11-11, 2017-12-15);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Seed Museum", "food", 125000, 2017-2-15, 2017-3-25);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("The World Within", "journalism", 1000, 2017-7-22, 2017-8-22);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Samurai Statue", "art", 20000, 2018-2-10, 2018-4-22);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("The Little Bungalow", "publishing", 5000, 2018-5-15, 2018-6-15);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Jet Propel Backpack", "technology", 67000, 2018-8-9, 2019-1-5);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Troll Monument", "art", 300000, 2017-12-15, 2018-4-15);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Clean the Ocean", "technology", 687000000, 2018-1-5, 2019-1-5);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Build a Diner", "games", 45333, 2017-10-9, 2017-11-18);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Strawberry Hat", "technology", 95837, 2017-11-16, 2018-1-22);
 
 --users
 INSERT INTO users (name, age) VALUES ();
