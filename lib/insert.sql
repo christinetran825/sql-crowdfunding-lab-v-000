@@ -12,26 +12,27 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 (10, "Build a Diner", "games", 45333, '2017-10-9', '2017-11-18');
 
 --users
-INSERT INTO users (id, name, age) VALUES ("John", 22);
-INSERT INTO users (id, name, age) VALUES ("Pam", 34);
-INSERT INTO users (id, name, age) VALUES ("Michael", 14);
-INSERT INTO users (id, name, age) VALUES ("Jim", 26);
-INSERT INTO users (id, name, age) VALUES ("Dale", 77);
-INSERT INTO users (id, name, age) VALUES ("Barb", 45
-INSERT INTO users (id, name, age) VALUES ("Sarah", 89);
-INSERT INTO users (id, name, age) VALUES ("Steve", 15);
-INSERT INTO users (id, name, age) VALUES ("Lloyd", 82);
-INSERT INTO users (id, name, age) VALUES ("Alan", 22);
-INSERT INTO users (id, name, age) VALUES ("George", 10);
-INSERT INTO users (id, name, age) VALUES ("Peter", 4);
-INSERT INTO users (id, name, age) VALUES ("Molly", 25);
-INSERT INTO users (id, name, age) VALUES ("Lynn", 12);
-INSERT INTO users (id, name, age) VALUES ("Elaine", 65);
-INSERT INTO users (id, name, age) VALUES ("Cece", 45);
-INSERT INTO users (id, name, age) VALUES ("Jessie", 33);
-INSERT INTO users (id, name, age) VALUES ("Nick", 23
-INSERT INTO users (id, name, age) VALUES ("Schmit", 5);
-INSERT INTO users (id, name, age) VALUES ("Winston", 12);
+INSERT INTO users (id, name, age) VALUES
+(1, "John", 22);
+(2, "Pam", 34);
+(3, "Michael", 14);
+(4, "Jim", 26);
+(5, "Dale", 77);
+(6, "Barb", 45
+(7, "Sarah", 89);
+(8, "Steve", 15);
+(9, "Lloyd", 82);
+(10, "Alan", 22);
+(11, "George", 10);
+(12, "Peter", 4);
+(13, "Molly", 25);
+(14, "Lynn", 12);
+(15, "Elaine", 65);
+(16, "Cece", 45);
+(17, "Jessie", 33);
+(18, "Nick", 23
+(19, "Schmit", 5);
+(20, "Winston", 12);
 
 --pledges
 INSERT INTO pledge (amount, user_id, project_id) VALUES (10.00, 1, 2);
