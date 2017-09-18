@@ -13,25 +13,25 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 
 --users
 INSERT INTO users (id, name, age) VALUES
-(1, "John", 22);
-(2, "Pam", 34);
-(3, "Michael", 14);
-(4, "Jim", 26);
-(5, "Dale", 77);
-(6, "Barb", 45
-(7, "Sarah", 89);
-(8, "Steve", 15);
-(9, "Lloyd", 82);
-(10, "Alan", 22);
-(11, "George", 10);
-(12, "Peter", 4);
-(13, "Molly", 25);
-(14, "Lynn", 12);
-(15, "Elaine", 65);
-(16, "Cece", 45);
-(17, "Jessie", 33);
-(18, "Nick", 23
-(19, "Schmit", 5);
+(1, "John", 22),
+(2, "Pam", 34),
+(3, "Michael", 14),
+(4, "Jim", 26),
+(5, "Dale", 77),
+(6, "Barb", 45),
+(7, "Sarah", 89),
+(8, "Steve", 15),
+(9, "Lloyd", 82),
+(10, "Alan", 22),
+(11, "George", 10),
+(12, "Peter", 4),
+(13, "Molly", 25),
+(14, "Lynn", 12),
+(15, "Elaine", 65),
+(16, "Cece", 45),
+(17, "Jessie", 33),
+(18, "Nick", 23),
+(19, "Schmit", 5),
 (20, "Winston", 12);
 
 --pledges
