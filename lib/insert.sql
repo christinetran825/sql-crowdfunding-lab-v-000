@@ -1,15 +1,15 @@
 --projects
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES
-(1, "Red Wagon", "art", 25000, '2017-12-1', '2018-1-15'),
-(2, "Cement Planters", "crafts", 200, '2017-11-11', '2017-12-15'),
-(3, "Seed Museum", "food", 125000, '2017-2-15', '2017-3-25'),
-(4, "The World Within", "journalism", 1000, '2017-7-22', '2017-8-22'),
-(5, "Samurai Statue", "art", 20000, '2018-2-10', '2018-4-22'),
-(6, "The Little Bungalow", "publishing", 5000, '2018-5-15', '2018-6-15'),
-(7, "Jet Propel Backpack", "technology", 67000, '2018-8-9', '2019-1-5'),
-(8, "Troll Monument", "art", 300000, '2017-12-15', '2018-4-15'),
-(9, "Clean the Ocean", "technology", 687000000, '2018-1-5', '2019-1-5'),
-(10, "Build a Diner", "games", 45333, '2017-10-9', '2017-11-18');
+(1, "Red Wagon", 'art', 25000, '2017-12-1', '2018-1-15'),
+(2, "Cement Planters", 'crafts', 200, '2017-11-11', '2017-12-15'),
+(3, "Seed Museum", 'food', 125000, '2017-2-15', '2017-3-25'),
+(4, "The World Within", 'journalism', 1000, '2017-7-22', '2017-8-22'),
+(5, "Samurai Statue", 'art', 20000, '2018-2-10', '2018-4-22'),
+(6, "The Little Bungalow", 'publishing', 5000, '2018-5-15', '2018-6-15'),
+(7, "Jet Propel Backpack", 'technology', 67000, '2018-8-9', '2019-1-5'),
+(8, "Troll Monument", 'art', 300000, '2017-12-15', '2018-4-15'),
+(9, "Clean the Ocean", 'technology', 687000000, '2018-1-5', '2019-1-5'),
+(10, "Build a Diner", 'games', 45333, '2017-10-9', '2017-11-18');
 
 --users
 INSERT INTO users (id, name, age) VALUES
