@@ -1,5 +1,5 @@
 --projects
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Red Wagon", "art", 25000, 2017-12-15, 2018-1-15);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
