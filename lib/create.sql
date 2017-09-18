@@ -13,6 +13,7 @@ CREATE TABLE users (
     age INTEGER
 );
 
+# belongs to a user and a project
 CREATE TABLE pledges (
   id INTEGER PRIMARY KEY,
     amount INTEGER
